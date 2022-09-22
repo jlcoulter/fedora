@@ -1,0 +1,2 @@
+# fedora
+stages of installation
